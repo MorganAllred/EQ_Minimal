@@ -596,9 +596,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem2">
@@ -614,9 +615,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem3">
@@ -632,9 +634,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem4">
@@ -650,9 +653,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem5">
@@ -668,9 +672,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem6">
@@ -686,9 +691,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem7">
@@ -704,9 +710,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem8">
@@ -722,9 +729,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem9">
@@ -740,9 +748,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB_SpellGem10">
@@ -758,9 +767,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 	
 	<InvSlot item="Newslot1">
@@ -1611,9 +1621,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem2">
@@ -1629,9 +1640,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem3">
@@ -1647,9 +1659,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem4">
@@ -1665,9 +1678,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem5">
@@ -1683,9 +1697,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem6">
@@ -1701,9 +1716,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem7">
@@ -1719,9 +1735,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem8">
@@ -1737,9 +1754,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem9">
@@ -1755,9 +1773,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB2_SpellGem10">
@@ -1773,9 +1792,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<Button item="HB2_FileButton">
@@ -2445,9 +2465,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem2">
@@ -2463,9 +2484,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem3">
@@ -2481,9 +2503,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem4">
@@ -2499,9 +2522,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem5">
@@ -2517,9 +2541,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem6">
@@ -2535,9 +2560,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem7">
@@ -2553,9 +2579,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem8">
@@ -2571,9 +2598,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem9">
@@ -2589,9 +2617,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB3_SpellGem10">
@@ -2607,9 +2636,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<Button item="HB3_FileButton">
@@ -3279,9 +3309,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem2">
@@ -3297,9 +3328,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem3">
@@ -3315,9 +3347,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem4">
@@ -3333,9 +3366,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem5">
@@ -3351,9 +3385,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem6">
@@ -3369,9 +3404,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem7">
@@ -3387,9 +3423,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem8">
@@ -3405,9 +3442,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem9">
@@ -3423,9 +3461,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<SpellGem item = "HB4_SpellGem10">
@@ -3441,9 +3480,10 @@
 		</Size>
 		<SpellGemDrawTemplate>
 			<Holder>HB_SpellGemHolder</Holder>
+			<Background>A_BtnFlyby</Background>
 		</SpellGemDrawTemplate>
-		<SpellIconOffsetX>2</SpellIconOffsetX>
-		<SpellIconOffsetY>6</SpellIconOffsetY>
+		<SpellIconOffsetX>7</SpellIconOffsetX>
+		<SpellIconOffsetY>7</SpellIconOffsetY>
 	</SpellGem>
 
 	<Button item="HB4_FileButton">

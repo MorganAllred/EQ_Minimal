@@ -556,6 +556,7 @@
 		</Frames>
 	</Ui2DAnimation>
 
+
 <!-- Cursors -->
 
 	<Ui2DAnimation item = "A_DefaultCursor">
@@ -4903,8 +4904,8 @@
 		<Cycle>false</Cycle>
 		<Grid>true</Grid>
 		<Vertical>false</Vertical>
-		<CellHeight>28</CellHeight>
-		<CellWidth>36</CellWidth>
+		<CellHeight>24</CellHeight>
+		<CellWidth>24</CellWidth>
 		<Frames>
 			<Texture>gemicons01.tga</Texture>
 			<Location>
