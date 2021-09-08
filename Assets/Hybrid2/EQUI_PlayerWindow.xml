@@ -1,0 +1,66 @@
+<?xml version = "1.0"?>
+<XML ID = "EQInterfaceDefinitionLanguage">
+	<Schema xmlns = "EverQuestData" xmlns:dt = "EverQuestDataTypes"/>
+
+<!--Define autoattack animation-->
+	<TextureInfo item = "AttackIndicator.tga">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
+
+	<Ui2DAnimation item = "A_AttackIndicator">
+		<Cycle>false</Cycle>
+		<Frames>
+			<Texture>AttackIndicator.tga</Texture>
+			<Location>
+				<X>0</X>
+				<Y>0</Y>
+			</Location>
+			<Size>
+				<CX>240</CX>
+				<CY>79</CY>
+			</Size>
+		</Frames>
+	</Ui2DAnimation>
+	
+	<StaticAnimation item = "A_AttackIndicatorAnim">
+		<ScreenID>A_AttackIndicatorAnim</ScreenID>
+		<Animation>A_AttackIndicator</Animation>
+	</StaticAnimation>	
+	
+	<Gauge item = "Pet_HP">
+		<ScreenID>PetHP</ScreenID>
+	</Gauge>
+	
+<!--Define PlayerWindow-->
+	<Screen item = "PlayerWindow">
+		<ScreenID/>
+		<RelativePosition>false</RelativePosition>
+		<Location>
+			<X>516</X>
+			<Y>242</Y>
+		</Location>
+		<Size>
+			<CX>240</CX>
+			<CY>80</CY>
+		</Size>
+		<Text>TARGET</Text>
+		<Style_VScroll>false</Style_VScroll>
+		<Style_HScroll>false</Style_HScroll>
+		<Style_Transparent>true</Style_Transparent>
+		<TooltipReference>Your Current Target</TooltipReference>
+		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
+		<Style_Minimizebox>false</Style_Minimizebox>
+		<Style_Border>false</Style_Border>
+		<Style_Sizable>false</Style_Sizable>
+		
+		<Pieces>Pet_HP</Pieces>
+		<Pieces>A_AttackIndicatorAnim</Pieces>
+		
+	</Screen>
+	
+</XML>
