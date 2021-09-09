@@ -70,7 +70,7 @@
 		<!--d<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>7</X>
+			<X>0</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
@@ -90,7 +90,7 @@
 		<!--<Font>3</Font>-->
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>46</X>
+			<X>39</X>
 			<Y>0</Y>
 		</Location>
 		<Size>
@@ -109,7 +109,7 @@
 		<ScreenID>ContainerSlot3</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>7</X>
+			<X>0</X>
 			<Y>39</Y>
 		</Location>
 		<Size>
@@ -128,7 +128,7 @@
 		<ScreenID>ContainerSlot4</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>46</X>
+			<X>39</X>
 			<Y>39</Y>
 		</Location>
 		<Size>
@@ -147,7 +147,7 @@
 		<ScreenID>ContainerSlot5</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>7</X>
+			<X>0</X>
 			<Y>78</Y>
 		</Location>
 		<Size>
@@ -166,7 +166,7 @@
 		<ScreenID>ContainerSlot6</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>46</X>
+			<X>39</X>
 			<Y>78</Y>
 		</Location>
 		<Size>
@@ -185,7 +185,7 @@
 		<ScreenID>ContainerSlot7</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>7</X>
+			<X>0</X>
 			<Y>117</Y>
 		</Location>
 		<Size>
@@ -204,7 +204,7 @@
 		<ScreenID>ContainerSlot8</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>46</X>
+			<X>39</X>
 			<Y>117</Y>
 		</Location>
 		<Size>
@@ -223,7 +223,7 @@
 		<ScreenID>ContainerSlot9</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>7</X>
+			<X>0</X>
 			<Y>156</Y>
 		</Location>
 		<Size>
@@ -242,7 +242,7 @@
 		<ScreenID>ContainerSlot10</ScreenID>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>46</X>
+			<X>39</X>
 			<Y>156</Y>
 		</Location>
 		<Size>
@@ -499,19 +499,19 @@
 			<Y>100</Y>
 		</Location>
 		<Size>
-			<CX>96</CX>
+			<CX>82</CX>
 			<CY>366</CY>
 		</Size>
 		<!-- <Text>Container</Text> -->
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
-		<Style_Transparent>false</Style_Transparent>
+		<Style_Transparent>true</Style_Transparent>
 		<TooltipReference>Container</TooltipReference>
 		<DrawTemplate>WDT_RoundedNoTitle</DrawTemplate>
-		<Style_Titlebar>true</Style_Titlebar>
-		<Style_Closebox>true</Style_Closebox>
+		<Style_Titlebar>false</Style_Titlebar>
+		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>false</Style_Minimizebox>
-		<Style_Border>true</Style_Border>
+		<Style_Border>false</Style_Border>
 		<Style_Sizable>false</Style_Sizable>
 		<Pieces>Container_Label</Pieces>
 		<Pieces>Container_Icon</Pieces>
@@ -527,12 +527,12 @@
 		<Pieces>ContainerSlot10</Pieces>
 		<Pieces>Container_Combine</Pieces>
 		<!-- <Pieces>Container_DoneButton</Pieces> -->
-		<Pieces>AugmentList</Pieces>
+		<!-- <Pieces>AugmentList</Pieces>
 		<Pieces>Augment_Label</Pieces>
 		<Pieces>InsertButton</Pieces>		
 		<Pieces>RemoveButton</Pieces>		
 		<Pieces>DeleteButton</Pieces>		
-		<Pieces>AugmentInfoLabel</Pieces>		
+		<Pieces>AugmentInfoLabel</Pieces>		 -->
 	</Screen>
 
 </XML>
