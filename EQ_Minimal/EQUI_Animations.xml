@@ -121,6 +121,12 @@
 			<CY>256</CY>
 		</Size>
 	</TextureInfo>
+	<TextureInfo item = "classic_pieces01.png">
+		<Size>
+			<CX>256</CX>
+			<CY>256</CY>
+		</Size>
+	</TextureInfo>
 	<TextureInfo item = "scrollbar_gutter.tga">
 		<Size>
 			<CX>0</CX>
@@ -7907,7 +7913,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvEar">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>0</X>
 				<Y>0</Y>
@@ -7924,7 +7930,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvNeck">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>39</X>
 				<Y>0</Y>
@@ -7941,7 +7947,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvHead">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>78</X>
 				<Y>0</Y>
@@ -7958,7 +7964,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvFace">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>117</X>
 				<Y>0</Y>
@@ -7975,7 +7981,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvChest">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>156</X>
 				<Y>0</Y>
@@ -7992,7 +7998,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvAboutBody">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>0</X>
 				<Y>39</Y>
@@ -8009,7 +8015,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvArms">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>39</X>
 				<Y>39</Y>
@@ -8026,7 +8032,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvShoulders">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>78</X>
 				<Y>39</Y>
@@ -8043,7 +8049,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvWrist">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>117</X>
 				<Y>39</Y>
@@ -8060,7 +8066,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvWaist">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>156</X>
 				<Y>39</Y>
@@ -8077,7 +8083,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvHands">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>0</X>
 				<Y>78</Y>
@@ -8094,7 +8100,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvRing">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>39</X>
 				<Y>78</Y>
@@ -8111,7 +8117,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvLegs">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>78</X>
 				<Y>78</Y>
@@ -8128,7 +8134,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvFeet">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>117</X>
 				<Y>78</Y>
@@ -8145,7 +8151,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvPrimary">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>156</X>
 				<Y>78</Y>
@@ -8162,7 +8168,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvSecondary">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>195</X>
 				<Y>0</Y>
@@ -8179,7 +8185,7 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvRange">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>195</X>
 				<Y>39</Y>
@@ -8196,10 +8202,27 @@
 	</Ui2DAnimation>
 	<Ui2DAnimation item = "A_InvAmmo">
 		<Frames>
-			<Texture>classic_pieces01.tga</Texture>
+			<Texture>classic_pieces01.png</Texture>
 			<Location>
 				<X>195</X>
 				<Y>78</Y>
+			</Location>
+			<Size>
+				<CX>40</CX>
+				<CY>40</CY>
+			</Size>
+			<Hotspot>
+				<X>0</X>
+				<Y>0</Y>
+			</Hotspot>
+		</Frames>
+	</Ui2DAnimation>
+		<Ui2DAnimation item = "A_InvClicky">
+		<Frames>
+			<Texture>classic_pieces01.png</Texture>
+			<Location>
+				<X>195</X>
+				<Y>117</Y>
 			</Location>
 			<Size>
 				<CX>40</CX>
