@@ -48,7 +48,7 @@
 
 	<Gauge item = "GW_Gauge1">
 		<ScreenID>Gauge1</ScreenID>
-		<!--<Font>3</Font>-->
+		<!-- <Font>3</Font> -->
 		<TextColor>
 				<R>240</R>
 				<G>240</G>
@@ -63,8 +63,8 @@
 			<CX>132</CX>
 			<CY>32</CY>
 		</Size>
-		<TextOffsetX>3</TextOffsetX>
-		<TextOffsetY>16</TextOffsetY>
+		<TextOffsetX>6</TextOffsetX>
+		<TextOffsetY>18</TextOffsetY>
 		<GaugeOffsetX>3</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -187,8 +187,8 @@
 			<CX>132</CX>
 			<CY>32</CY>
 		</Size>
-		<TextOffsetX>3</TextOffsetX>
-		<TextOffsetY>16</TextOffsetY>
+		<TextOffsetX>6</TextOffsetX>
+		<TextOffsetY>18</TextOffsetY>
 		<GaugeOffsetX>3</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -307,8 +307,8 @@
 			<CX>132</CX>
 			<CY>32</CY>
 		</Size>
-		<TextOffsetX>3</TextOffsetX>
-		<TextOffsetY>16</TextOffsetY>
+		<TextOffsetX>6</TextOffsetX>
+		<TextOffsetY>18</TextOffsetY>
 		<GaugeOffsetX>3</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -431,8 +431,8 @@
 			<CX>132</CX>
 			<CY>32</CY>
 		</Size>
-		<TextOffsetX>3</TextOffsetX>
-		<TextOffsetY>16</TextOffsetY>
+		<TextOffsetX>6</TextOffsetX>
+		<TextOffsetY>18</TextOffsetY>
 		<GaugeOffsetX>3</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -560,8 +560,8 @@
 			<CX>132</CX>
 			<CY>32</CY>
 		</Size>
-		<TextOffsetX>3</TextOffsetX>
-		<TextOffsetY>16</TextOffsetY>
+		<TextOffsetX>6</TextOffsetX>
+		<TextOffsetY>18</TextOffsetY>
 		<GaugeOffsetX>3</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
@@ -790,7 +790,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>8</X>
-			<Y>205</Y>
+			<Y>194</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -822,7 +822,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>72</X>
-			<Y>205</Y>
+			<Y>194</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -854,7 +854,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>8</X>
-			<Y>205</Y>
+			<Y>194</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -886,7 +886,7 @@
 		<RelativePosition>true</RelativePosition>
 		<Location>
 			<X>72</X>
-			<Y>205</Y>
+			<Y>194</Y>
 		</Location>
 		<Size>
 			<CX>64</CX>
@@ -948,8 +948,8 @@
 			<Y>78</Y>
 		</Location>
 		<Size>
-			<CX>144</CX>
-			<CY>235</CY>
+			<CX>150</CX>
+			<CY>228</CY>
 		</Size>
 		<Text>Group</Text>
 		<Style_VScroll>false</Style_VScroll>
@@ -960,7 +960,7 @@
 		<Style_Titlebar>false</Style_Titlebar>
 		<Style_Closebox>false</Style_Closebox>
 		<Style_Minimizebox>false</Style_Minimizebox>
-		<Style_Border>false</Style_Border>
+		<Style_Border>true</Style_Border>
 		<Style_Sizable>false</Style_Sizable>
 		
 		<Pieces>GW_InviteButton</Pieces>
