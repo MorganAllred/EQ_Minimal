@@ -12,7 +12,7 @@
     <Font>5</Font>
     <Size>
       <CX>250</CX>
-      <CY>24</CY>
+      <CY>26</CY>
     </Size>
     <Text>Playername123456</Text>
     <TextColor>
@@ -49,7 +49,7 @@
     <Style_Transparent>false</Style_Transparent>
     <TooltipReference />
     <FillTint>
-      <R>240</R>
+      <R>187</R>
       <G>0</G>
       <B>0</B>
     </FillTint>
@@ -147,7 +147,7 @@
     </Location>
     <Size>
       <CX>266</CX>
-      <CY>60</CY>
+      <CY>63</CY>
     </Size>
     <Text>Target</Text>
     <Style_VScroll>false</Style_VScroll>

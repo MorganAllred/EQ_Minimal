@@ -542,11 +542,51 @@
 			<Texture>classic_bars.png</Texture>
 			<Location>
 				<X>0</X>
-				<Y>25</Y>
+				<Y>40</Y>
 			</Location>
 			<Size>
 				<CX>256</CX>
 				<CY>24</CY>
+			</Size>
+			<Hotspot>
+				<X>0</X>
+				<Y>0</Y>
+			</Hotspot>
+			<Duration>1000</Duration>
+		</Frames>
+	</Ui2DAnimation>
+	
+	<Ui2DAnimation item = "Custom_Mana_Background">
+		<Cycle>true</Cycle>
+		<Frames>
+			<Texture>classic_bars.png</Texture>
+			<Location>
+				<X>0</X>
+				<Y>70</Y>
+			</Location>
+			<Size>
+				<CX>256</CX>
+				<CY>24</CY>
+			</Size>
+			<Hotspot>
+				<X>0</X>
+				<Y>0</Y>
+			</Hotspot>
+			<Duration>1000</Duration>
+		</Frames>
+	</Ui2DAnimation>
+	
+	<Ui2DAnimation item = "Custom_EXP_Background">
+		<Cycle>true</Cycle>
+		<Frames>
+			<Texture>classic_bars.png</Texture>
+			<Location>
+				<X>0</X>
+				<Y>100</Y>
+			</Location>
+			<Size>
+				<CX>256</CX>
+				<CY>12</CY>
 			</Size>
 			<Hotspot>
 				<X>0</X>

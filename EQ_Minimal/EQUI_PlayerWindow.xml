@@ -17,7 +17,7 @@
 		<Animation>A_CornerSquare</Animation>
 	</StaticAnimation>	
 	
-	<TextureInfo item = "AttackIndicator.tga">
+	<TextureInfo item = "AttackIndicator.png">
 		<Size>
 			<CX>256</CX>
 			<CY>256</CY>
@@ -27,14 +27,14 @@
 	<Ui2DAnimation item = "A_AttackIndicator">
 		<Cycle>false</Cycle>
 		<Frames>
-			<Texture>AttackIndicator.tga</Texture>
+			<Texture>AttackIndicator.png</Texture>
 			<Location>
 				<X>0</X>
 				<Y>0</Y>
 			</Location>
 			<Size>
-				<CX>136</CX>
-				<CY>106</CY>
+				<CX>256</CX>
+				<CY>102</CY>
 			</Size>
 		</Frames>
 	</Ui2DAnimation>
@@ -77,7 +77,7 @@
 		<!--<Font>3</Font>-->
 		<TextColor>
 			<R>255</R>
-			<G>0</G>0
+			<G>0</G>
 			<B>0</B>
 		</TextColor>
 		<RelativePosition>true</RelativePosition>
@@ -86,7 +86,7 @@
 			<Y>5</Y>
 		</Location>
 		<Size>
-			<CX>250</CX>
+			<CX>247</CX>
 			<CY>24</CY>
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
@@ -97,7 +97,7 @@
 		<Style_Transparent>false</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<FillTint>
-				<R>220</R>
+				<R>187</R>
 				<G>0</G>
 				<B>0</B>
 		</FillTint>
@@ -127,12 +127,12 @@
 			<Y>5</Y>
 		</Location>
 		<Size>
-			<CX>250</CX>
+			<CX>247</CX>
 			<CY>24</CY>
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
 		<GaugeOffsetY>0</GaugeOffsetY>
-		<GaugeOffsetX>3</GaugeOffsetX>
+		<GaugeOffsetX>0</GaugeOffsetX>
 		<Style_VScroll>false</Style_VScroll>
 		<Style_HScroll>false</Style_HScroll>
 		<Style_Transparent>false</Style_Transparent>
@@ -278,7 +278,7 @@
 			<Y>32</Y>
 		</Location>
 		<Size>
-			<CX>256</CX>
+			<CX>247</CX>
 			<CY>24</CY>
 		</Size>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -288,9 +288,9 @@
 		<Style_Transparent>false</Style_Transparent>
 		<!--<TooltipReference/>-->
 		<FillTint>
-				<R>0</R>
-				<G>0</G>
-				<B>240</B>
+				<R>5</R>
+				<G>94</G>
+				<B>218</B>
 		</FillTint>
 		<LinesFillTint>
 				<R>0</R>
@@ -323,7 +323,7 @@
 			<Y>32</Y>
 		</Location>
 		<Size>
-			<CX>250</CX>
+			<CX>247</CX>
 			<CY>24</CY>
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
@@ -346,7 +346,7 @@
 		<DrawLinesFill>false</DrawLinesFill>
 		<EQType>2</EQType>
 		<GaugeDrawTemplate>
-			<Background>Custom_HP_Background</Background>
+			<Background>Custom_Mana_Background</Background>
 		</GaugeDrawTemplate>
 	</Gauge>
 
@@ -410,7 +410,7 @@
 			<Y>59</Y>
 		</Location>
 		<Size>
-			<CX>250</CX>
+			<CX>247</CX>
 			<CY>12</CY>
 		</Size>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -452,7 +452,7 @@
 			<Y>75</Y>
 		</Location>
 		<Size>
-			<CX>250</CX>
+			<CX>247</CX>
 			<CY>12</CY>
 		</Size>
 		<GaugeOffsetY>0</GaugeOffsetY>
@@ -495,7 +495,7 @@
 			<Y>75</Y>
 		</Location>
 		<Size>
-			<CX>250</CX>
+			<CX>247</CX>
 			<CY>12</CY>
 		</Size>
 		<TextOffsetY>-50</TextOffsetY>
@@ -518,7 +518,7 @@
 		<DrawLinesFill>false</DrawLinesFill>
 		<EQType>4</EQType>
 		<GaugeDrawTemplate>
-			<Background>Custom_HP_Background</Background>
+			<Background>Custom_EXP_Background</Background>
 		</GaugeDrawTemplate>
 	</Gauge>
 	
@@ -549,7 +549,7 @@
 		<Font>4</Font>
 		<RelativePosition>true</RelativePosition>
 		<Location>
-			<X>89</X>
+			<X>91</X>
 			<Y>72</Y>
 		</Location>
 		<Size>
@@ -693,7 +693,7 @@
 			<Y>0</Y>
 		</Location>
 		<Size>
-			<CX>266</CX>
+			<CX>264</CX>
 			<CY>102</CY>
 		</Size>
 		<Text>Player</Text>
