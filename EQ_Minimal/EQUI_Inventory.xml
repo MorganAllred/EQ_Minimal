@@ -29,6 +29,19 @@
 		</Size>
 		<Animation>A_RecessedBox</Animation>
 	</StaticAnimation>
+
+  <StaticAnimation item= "InvDummy3">
+		<ScreenID>InvDummy</ScreenID>
+		<Location>
+			<X>10</X>
+			<Y>89</Y>
+		</Location>
+		<Size>
+			<CX>40</CX>
+			<CY>40</CY>
+		</Size>
+		<Animation>A_RecessedBox</Animation>
+	</StaticAnimation>
 	
   <Button item="IW_ReclaimButton">
     <ScreenID>IW_ReclaimButton</ScreenID> 
@@ -687,7 +700,7 @@
     <Font>3</Font>
     <RelativePosition>true</RelativePosition>
     <Location>
-      <X>246</X>
+      <X>235</X>
       <Y>306</Y>
     </Location>
     <Size>
@@ -1414,6 +1427,7 @@
 		<Pieces>IW_Subwindows</Pieces>
 		<Pieces>InvDummy</Pieces>
 		<Pieces>InvDummy2</Pieces>
+    <Pieces>InvDummy3</Pieces>
 		<Pieces>InvSlot0</Pieces>
 		<Pieces>InvSlot1</Pieces>
 		<Pieces>InvSlot2</Pieces>
