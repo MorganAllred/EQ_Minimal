@@ -1,0 +1,42 @@
+rustle ui 2: rise of the apes
+a ui for project 1999 blue or red server. 
+
+download:
+standard version https://www.eqinterface.com/downloads/fileinfo.php?id=6828
+4k version https://www.eqinterface.com/downloads/fileinfo.php?id=6829
+
+this is what we've got:
+- we got big ol' health bars all up in here. i'm old.
+- every slot can be clicked from the hot bar.
+- the inventory window shows all bag slots.
+- many of the ui elements have been removed, such as the friend window and the bard buff window, among others. 
+
+this is a fork from qqui. shout out to cucumbers for his sweet ui which inspired this one. much respect.
+
+version 2.0
+- standard & 4k: the player and party health bars will gradually change color when losing (or gaining) health.
+- standard & 4k: added a one window bank, similar to the inventory window.
+- standard & 4k: added a light border around empty hot buttons and bag slots to help with visual clarity.
+- standard & 4k: added a drop shadow on buff names to more easily read in bright places, like velious.
+- 4k: the vendor "buy" button text has been fixed.
+- 4k: added the title bar to chat windows.
+- standard & 4k: cut a lot of the fat. compared to rustle.1, this has a much smaller install size.
+
+version 2.0.1
+- pet window is fixed. the pet health bar will gradually change color similar to the other health bars.
+- several of the pop up info text has been made larger in the 4k version.
+
+version 2.1
+- standard & 4k: some group window changes. the class & level have been moved away from the player windows and put on the group window. in addition the deity has been added (of agnostic is my favorite). the health and mana have been made slightly larger. and there were some other small adjustments to slight rearrangements. 
+- standard & 4k: added a "done" button to the inventory window
+- standard & 4k: now that the class & level have been moved off the player window, i rearranged the window a little bit.
+- standard: fixed some spell names from getting cut off at bottom.
+- 4k: group member names now show up when they're in a different zone. it's imperfect, kinda janky because of the titanium client, but it's better than nothing at all. 
+
+things to watch out for:
+if your bags have less than 10 slots, but you put an item in a bag slot you don't actually have, the item will end up on your "cursor". it's not recommended you do that, maybe it'll get deleted or something, but your mileage may vary.
+
+how to install:
+- extract the folder to your p99 ui directory. like c:\project1999\uifiles\ or where ever your install is.
+- after logging into the game type: /loadskin rustle2 (or /loadskin rustle2.4k)
+- now check your immersion cuz you're about to feel rustled. 
